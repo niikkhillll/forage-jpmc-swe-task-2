@@ -1,0 +1,29 @@
+[33mcommit 3022e1f02670f8336f457078532f98c50f77496e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Joe Ferrer <joe@theforage.com>
+Date:   Wed Mar 1 00:45:20 2023 +1100
+
+    Move python files to datafeed dir
+
+[33mcommit e687223dd08e8b7e9c5ec194dc1d38fe010ccf8e[m
+Author: josiahdc <josiah.chapman@gmail.com>
+Date:   Wed Oct 5 13:05:11 2022 -0700
+
+    added requirements
+
+[33mcommit d220167ab4c9444195ae30a7d6b4d243583ab21b[m
+Author: Josiah Chapman <josiah.chapman@gmail.com>
+Date:   Tue Aug 2 21:02:55 2022 -0700
+
+    added project files
+
+[33mcommit 8d1e79d4c59b5a534c7cdfdd25cd88854e508266[m
+Author: Josiah Chapman <35126739+josiahdc@users.noreply.github.com>
+Date:   Tue Aug 2 17:37:20 2022 -0700
+
+    Update README.md
+
+[33mcommit 6efeeb81064feb076003dabbfb60f59b41e01f12[m
+Author: Josiah Chapman <35126739+josiahdc@users.noreply.github.com>
+Date:   Tue Aug 2 17:37:03 2022 -0700
+
+    Initial commit
